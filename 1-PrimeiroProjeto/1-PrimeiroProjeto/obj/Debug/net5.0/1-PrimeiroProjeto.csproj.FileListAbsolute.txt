@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.exe
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.deps.json
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Temp\ApredendoCSharp\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.genruntimeconfig.cache

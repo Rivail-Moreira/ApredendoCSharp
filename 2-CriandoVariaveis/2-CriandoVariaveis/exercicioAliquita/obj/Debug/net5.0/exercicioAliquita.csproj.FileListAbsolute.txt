@@ -1,0 +1,15 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\ref\exercicioAliquita.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\bin\Debug\net5.0\exercicioAliquita.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\ref\exercicioAliquita.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\exercicioAliquita\obj\Debug\net5.0\exercicioAliquita.genruntimeconfig.cache

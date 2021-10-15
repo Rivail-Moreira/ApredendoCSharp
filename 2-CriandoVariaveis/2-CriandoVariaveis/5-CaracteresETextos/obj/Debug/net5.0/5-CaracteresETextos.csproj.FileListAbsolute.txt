@@ -1,0 +1,15 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\ref\5-CaracteresETextos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\ref\5-CaracteresETextos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.genruntimeconfig.cache

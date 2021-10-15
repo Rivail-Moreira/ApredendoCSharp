@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.exe
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.deps.json
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.json
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.dll
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\ref\01-ByteBank.dll
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.pdb
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.dll
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\ref\01-ByteBank.dll
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.pdb
+C:\Temp\ApredendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.genruntimeconfig.cache

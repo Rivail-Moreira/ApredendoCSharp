@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\ref\4-ConversoesEoutrosTiposNumericos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\ref\4-ConversoesEoutrosTiposNumericos.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\4-ConversoesEoutrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEoutrosTiposNumericos.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: switchCase, Configuration: Debug Any CPU ------
+1>switchCase -> C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\switchCase\bin\Debug\net5.0\switchCase.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.exe
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.deps.json
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.runtimeconfig.json
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.dll
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\ref\12-CalculaInvesLogoPrazo.dll
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\bin\Debug\net5.0\12-CalculaInvesLogoPrazo.pdb
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.dll
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\ref\12-CalculaInvesLogoPrazo.dll
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.pdb
+C:\Temp\ApredendoCSharp\10-CalculaPoupanca\12-CalculaInvesLogoPrazo\obj\Debug\net5.0\12-CalculaInvesLogoPrazo.genruntimeconfig.cache

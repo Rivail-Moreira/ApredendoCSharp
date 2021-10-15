@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache

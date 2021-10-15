@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\ref\9-Escopo.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\bin\Debug\net5.0\9-Escopo.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\ref\9-Escopo.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.genruntimeconfig.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\9-Escopo\obj\Debug\net5.0\9-Escopo.csproj.AssemblyReference.cache

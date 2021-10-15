@@ -1,0 +1,16 @@
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.exe
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.deps.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\ref\2-CriandoVariaveis.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\ref\2-CriandoVariaveis.dll
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.pdb
+C:\Temp\ApredendoCSharp\2-CriandoVariaveis\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.genruntimeconfig.cache
