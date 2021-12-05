@@ -17,11 +17,7 @@ namespace _03_ByteBank
             contaDaGabrielaCosta.numero = 863146;
 
             Console.WriteLine("Igualdade de tipo de referência: " + (contaDaGabriela == contaDaGabrielaCosta));
-
-            int idade = 27;
-            int idadeMaisUmaVez = 27;
-
-            Console.WriteLine("Igualdade de tipo de valor: " + (idade == idadeMaisUmaVez));
+                         
 
             contaDaGabriela = contaDaGabrielaCosta;
             Console.WriteLine(contaDaGabriela == contaDaGabrielaCosta);
@@ -29,6 +25,7 @@ namespace _03_ByteBank
             contaDaGabriela.saldo = 300;
             Console.WriteLine(contaDaGabriela.saldo);
             Console.WriteLine(contaDaGabrielaCosta.saldo);
+
 
             Console.ReadLine();
         }
